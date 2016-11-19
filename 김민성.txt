@@ -1,4 +1,8 @@
 hello World!
+<<<<<<< HEAD
 jinseong is ddd
 yahow
 
+=======
+yahowafagw
+>>>>>>> origin/master
